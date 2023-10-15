@@ -19,6 +19,6 @@ con experiencia en tecnologías Microsoft, especialmente en C# y sus frameworks,
 
 ## 📧 Contacto
 
-* LinkedIn: [[Cotilleame]](https://www.linkedin.com/in/ivan-david-medina-vallez-656779154/)
-* Correo Electrónico: [[Háblame]](iveen98@gmail.com)
+* LinkedIn: [Cotilleame](https://www.linkedin.com/in/ivan-david-medina-vallez-656779154/)
+* Correo Electrónico: [Háblame](iveen98@gmail.com)
 
