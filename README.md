@@ -13,8 +13,8 @@ con experiencia en tecnologías Microsoft, especialmente en C# y sus frameworks,
 
 ## 💻 Habilidades Técnicas
 
-* Lenguajes: C#, Lua, Java
-* Frameworks: .NET 4.7.2, .NET 6, Blazor
+* Lenguajes: C#, Lua, Java, JS
+* Frameworks: .NET 4.7.2, .NET 6, Blazor y React (Aprendiendo)
 * Bases de Datos: SQL
 
 ## 📧 Contacto
