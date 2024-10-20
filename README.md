@@ -15,7 +15,7 @@ After some time working in these fields, I decided to make a change and explore 
 - 🤝 **Open to collaboration**: Happy to collaborate on exciting projects
 
 [![GitHub followers](https://img.shields.io/github/followers/IveenNet?logo=github&style=for-the-badge&color=64748b&labelColor=ffffff)](https://www.github.com/IveenNet)
-<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
+[![Profile views](https://komarev.com/ghpvc/?username=IveenNet&color=blue)](https://github.com/IveenNet)
 
 ---
 
@@ -84,18 +84,41 @@ After some time working in these fields, I decided to make a change and explore 
 
 ---
 
-## 📚 My Books
+## 📚 My Favorite Books
 
-I enjoy reading books on technology, self-improvement, and fiction. Here are some of the books I've been reading or plan to read:
+I enjoy reading books on self-improvement, technology, and fiction. Here are some of my favorite books and what I'm currently reading:
 
-- **Currently reading**: *Artificial Intelligence: A Guide for Thinking Humans* by Melanie Mitchell
-- **On my list**: *Clean Code* by Robert C. Martin
+- **Favorite Book #1**: [*Can't Hurt Me* by David Goggins](https://www.amazon.com/dp/1544512287)
+  <a href="https://www.amazon.com/dp/1544512287" target="_blank">
+    <img src="https://m.media-amazon.com/images/I/61dDoq3OTHL._AC_UY436_FMwebp_QL65_.jpg" width="120px" alt="Can't Hurt Me Book Cover"/>
+  </a>
 
-You can check out more of my reading activity on my Goodreads profile:
+- **Favorite Book #2**: [*Invicto* by Marcos Vázquez](https://www.amazon.com/dp/8491394772)
+  <a href="https://www.amazon.com/dp/8491394772" target="_blank">
+    <img src="https://m.media-amazon.com/images/I/51TeL6GsEjL._SX334_BO1,204,203,200_.jpg" width="120px" alt="Invicto Book Cover"/>
+  </a>
 
-[![Goodreads](https://img.shields.io/badge/Goodreads-Reading-orange?style=for-the-badge&logo=goodreads)](https://www.goodreads.com/user/show/123456789-iveen)
+- **Currently Reading**: [*Never Finished* by David Goggins](https://www.amazon.com/dp/1544534078)
+  <a href="https://www.amazon.com/dp/1544534078" target="_blank">
+    <img src="https://m.media-amazon.com/images/I/71gW1aD+DZL._AC_UY436_FMwebp_QL65_.jpg" width="120px" alt="Never Finished Book Cover"/>
+  </a>
+
+- **Currently Reading**: [*El Patrón Bitcoin* by Saifedean Ammous](https://www.amazon.com/dp/607748153X)
+  <a href="https://www.amazon.com/dp/607748153X" target="_blank">
+    <img src="https://m.media-amazon.com/images/I/41INy-r6R2L._SX331_BO1,204,203,200_.jpg" width="120px" alt="El Patrón Bitcoin Book Cover"/>
+  </a>
+
+- **On My List**: [*Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin](https://www.amazon.com/dp/0132350882)
+  <a href="https://www.amazon.com/dp/0132350882" target="_blank">
+    <img src="https://m.media-amazon.com/images/I/41SH-SvWPxL._SX258_BO1,204,203,200_.jpg" width="120px" alt="Clean Code Book Cover"/>
+  </a>
+
+You can explore more books I'm interested in or planning to read on my Amazon wishlist:
+
+[![Amazon](https://img.shields.io/badge/Amazon-My_Book_List-orange?style=for-the-badge&logo=amazon)](https://www.amazon.es/hz/wishlist/ls/2E4MJ4SFSYK23/ref=nav_wishlist_lists_2)
 
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -123,5 +146,7 @@ You can check out more of my reading activity on my Goodreads profile:
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=condorcoders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IveenNet&theme=dracula&column=8&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
