@@ -1,7 +1,10 @@
 ![Hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-# Iván David Medina Vallez
+![Header](./github-header-image.png)
 
 ## Backend Developer
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGk2MHl4ZTcyamk0Y2JobGRnY3lucHQ0M295czAzcXF1d2s4djd0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kspVl6FzbdblOMKRmM/giphy.gif" width="auto"/>
+</div>
 Hi! I'm Iván David Medina Vallez. Currently, I work as a script developer using Lua for web scraping and maintaining and developing microservices with .NET.
 
 After some time working in these fields, I decided to make a change and explore new areas that I'm passionate about, such as web development and artificial intelligence.
@@ -12,6 +15,7 @@ After some time working in these fields, I decided to make a change and explore 
 - 🤝 **Open to collaboration**: Happy to collaborate on exciting projects
 
 [![GitHub followers](https://img.shields.io/github/followers/IveenNet?logo=github&style=for-the-badge&color=64748b&labelColor=ffffff)](https://www.github.com/IveenNet)
+<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
 
 ---
 
@@ -118,3 +122,6 @@ You can check out more of my reading activity on my Goodreads profile:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IveenNet&langs_count=10&title_color=ec4899&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=condorcoders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
