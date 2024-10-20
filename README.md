@@ -1,21 +1,21 @@
 ![Hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 # Iván David Medina Vallez
 
-## Desarrollador Backend
-¡Hola! Soy Iván David Medina Vallez. Actualmente trabajo como desarrollador de scripts utilizando Lua para web scraping y también en el mantenimiento y desarrollo de microservicios con .NET.
+## Backend Developer
+Hi! I'm Iván David Medina Vallez. Currently, I work as a script developer using Lua for web scraping and maintaining and developing microservices with .NET.
 
-Después de trabajar en esos campos, decidí explorar nuevas áreas que me apasionan, como el desarrollo web y la inteligencia artificial.
+After some time working in these fields, I decided to make a change and explore new areas that I'm passionate about, such as web development and artificial intelligence.
 
-- 🌍 **Ubicación**: Ciudad Real, España
-- ✉️ **Contacto**: [iveen98@gmail.com](mailto:iveen98@gmail.com)
-- 🧠 **Aprendiendo actualmente**: Python, AI, React
-- 🤝 **Colaboraciones**: Abierto a colaborar en proyectos interesantes
+- 🌍 **Location**: Ciudad Real, Spain
+- ✉️ **Contact**: [iveen98@gmail.com](mailto:iveen98@gmail.com)
+- 🧠 **Currently learning**: Python, AI, React
+- 🤝 **Open to collaboration**: Happy to collaborate on exciting projects
 
 [![GitHub followers](https://img.shields.io/github/followers/IveenNet?logo=github&style=for-the-badge&color=64748b&labelColor=ffffff)](https://www.github.com/IveenNet)
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Skills
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -52,7 +52,7 @@ Después de trabajar en esos campos, decidí explorar nuevas áreas que me apasi
 
 ---
 
-## 🌐 Redes Sociales
+## 🌐 Socials
 
 <p align="left">
   <a href="https://discord.com/users/lafamilyrial" target="_blank" rel="noreferrer">
@@ -80,7 +80,20 @@ Después de trabajar en esos campos, decidí explorar nuevas áreas que me apasi
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📚 My Books
+
+I enjoy reading books on technology, self-improvement, and fiction. Here are some of the books I've been reading or plan to read:
+
+- **Currently reading**: *Artificial Intelligence: A Guide for Thinking Humans* by Melanie Mitchell
+- **On my list**: *Clean Code* by Robert C. Martin
+
+You can check out more of my reading activity on my Goodreads profile:
+
+[![Goodreads](https://img.shields.io/badge/Goodreads-Reading-orange?style=for-the-badge&logo=goodreads)](https://www.goodreads.com/user/show/123456789-iveen)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="http://www.github.com/IveenNet">
