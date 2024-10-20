@@ -90,22 +90,22 @@ I enjoy reading books on self-improvement, technology, and fiction. Here are som
 
 - **Favorite Book #1**: [*Can't Hurt Me* by David Goggins](https://www.amazon.com/dp/1544512287)
   <a href="https://www.amazon.com/dp/1544512287" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/61dDoq3OTHL._AC_UY436_FMwebp_QL65_.jpg" width="120px" alt="Can't Hurt Me Book Cover"/>
+    <img src="https://github.com/user-attachments/assets/44d8cbaf-d548-4c0f-9f61-339d5665ca6f" width="120px" alt="Can't Hurt Me Book Cover"/>
   </a>
 
 - **Favorite Book #2**: [*Invicto* by Marcos Vázquez](https://www.amazon.com/dp/8491394772)
   <a href="https://www.amazon.com/dp/8491394772" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/51TeL6GsEjL._SX334_BO1,204,203,200_.jpg" width="120px" alt="Invicto Book Cover"/>
+    <img src="https://github.com/user-attachments/assets/5d035f0a-2247-4c0b-917d-e99418776ff4" width="120px" alt="Invicto Book Cover"/>
   </a>
 
 - **Currently Reading**: [*Never Finished* by David Goggins](https://www.amazon.com/dp/1544534078)
   <a href="https://www.amazon.com/dp/1544534078" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/71gW1aD+DZL._AC_UY436_FMwebp_QL65_.jpg" width="120px" alt="Never Finished Book Cover"/>
+    <img src="https://github.com/user-attachments/assets/d8db0b5a-fc8a-4d39-add6-d0e947a81f8c" width="120px" alt="Never Finished Book Cover"/>
   </a>
 
 - **Currently Reading**: [*El Patrón Bitcoin* by Saifedean Ammous](https://www.amazon.com/dp/607748153X)
   <a href="https://www.amazon.com/dp/607748153X" target="_blank">
-    <img src="https://m.media-amazon.com/images/I/41INy-r6R2L._SX331_BO1,204,203,200_.jpg" width="120px" alt="El Patrón Bitcoin Book Cover"/>
+    <img src="https://github.com/user-attachments/assets/1a3845de-bf8f-4069-adbe-3c9f01847f1d" width="120px" alt="El Patrón Bitcoin Book Cover"/>
   </a>
 
 - **On My List**: [*Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin](https://www.amazon.com/dp/0132350882)
