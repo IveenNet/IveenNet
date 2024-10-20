@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desarrolador Backend
 --------------------
 
-¡Hii I´m Iván David Medina Vallez. No me considero una persona apasionada por la programación, por asi decirlo(Como todo el mundo se declara), más bien diria que me gusta trabajar de ello. Eso me da cierto interes en el mundo de la tecnologia y de la programación. con experiencia en tecnologías Microsoft, especialmente en C# y sus frameworks, incluyendo .NET 6. Además, tengo experiencia en bases de datos SQL y programación en Lua.
+Hi! I’m Iván David Medina Vallez. I currently work as a script developer using Lua for web scraping and in the maintenance and development of microservices with .NET.
+After working for some time, I decided it was time to make a change and explore new fields that I’m passionate about. This led me to start learning web development and AI.
 
-* 🌍  I'm based in Ciudad Real
-* ✉️  You can contact me at [iveen98@gmail.com](mailto:iveen98@gmail.com)
-* 🧠  I'm learning react
-* 🤝  I'm open to collaborating on proyectos interesantes
+* 🌍 I'm based in Ciudad Real, Spain
+* ✉️ You can reach me at iveen98@gmail.com
+* 🧠 I'm currently learning Python, AI, and React
+* 🤝 I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/IveenNet" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IveenNet?logo=github&style=for-the-badge&color=64748b&labelColor=ffffff" /></a>
