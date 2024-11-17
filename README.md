@@ -98,16 +98,6 @@ I enjoy reading books on self-improvement, technology, and fiction. Here are som
     <img src="https://github.com/user-attachments/assets/5d035f0a-2247-4c0b-917d-e99418776ff4" width="120px" alt="Invicto Book Cover"/>
   </a>
 
-- **Currently Reading**: [*Never Finished* by David Goggins](https://www.amazon.com/dp/1544534078)
-  <a href="https://www.amazon.com/dp/1544534078" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d8db0b5a-fc8a-4d39-add6-d0e947a81f8c" width="120px" alt="Never Finished Book Cover"/>
-  </a>
-
-- **Currently Reading**: [*El Patrón Bitcoin* by Saifedean Ammous](https://www.amazon.com/dp/607748153X)
-  <a href="https://www.amazon.com/dp/607748153X" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1a3845de-bf8f-4069-adbe-3c9f01847f1d" width="120px" alt="El Patrón Bitcoin Book Cover"/>
-  </a>
-
 - **On My List**: [*Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin](https://www.amazon.com/dp/0132350882)
   <a href="https://www.amazon.com/dp/0132350882" target="_blank">
     <img src="https://m.media-amazon.com/images/I/41SH-SvWPxL._SX258_BO1,204,203,200_.jpg" width="120px" alt="Clean Code Book Cover"/>
