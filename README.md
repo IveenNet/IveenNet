@@ -16,8 +16,7 @@ After some time working in these fields, I decided to make a change and explore 
 
 [![GitHub followers](https://img.shields.io/github/followers/IveenNet?logo=github&style=for-the-badge&color=64748b&labelColor=ffffff)](https://www.github.com/IveenNet)
 [![Profile views](https://komarev.com/ghpvc/?username=IveenNet&color=blue)](https://github.com/IveenNet)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5856471" style='border:none;'></iframe>
-
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5856471)](https://tryhackme.com/p/iveen98)
 
 ---
 
